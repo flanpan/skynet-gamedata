@@ -1,1 +1,2 @@
-# skynet-gamedata
+skynet game data manager
+- support hotfix for game data
